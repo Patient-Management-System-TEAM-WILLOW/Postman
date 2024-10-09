@@ -13,3 +13,7 @@
                             :-Add_Apoint  = http://127.0.0.1:8001/api/addAppointments
                             :-Del_Apoint  = http://127.0.0.1:8001/api/delAppointments
                             :-Upt_Apoint  = http://127.0.0.1:8001/api/uptAppointments
+                        :-Prescription
+                            :-View_Prescription = http://127.0.0.1:8001/api/getPrescription
+                            :-add_Prescription  = http://127.0.0.1:8001/api/addPrescription
+                            :-Del_Prescription  = http://127.0.0.1:8001/api/delPrescription
